@@ -1,0 +1,5 @@
+name: SpigotTest
+version: '1.0'
+main: me.striker.spigottest.SpigotTest
+api-version: 1.19
+description: This is the best minecraft plugin money can buy
